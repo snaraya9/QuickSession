@@ -33,8 +33,8 @@ while (value+10)<100:
 
     # Loads the audio into memory
     with io.open(f_name, 'rb') as audio_file:
-    content = audio_file.read()
-    audio=types.RecognitionAudio(content=content)
+        content = audio_file.read()
+        audio=types.RecognitionAudio(content=content)
 
     response = client.recognize(config, audio)
     return_list.append([[initial_value,value],response])
