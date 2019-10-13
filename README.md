@@ -1,6 +1,6 @@
 # QuickSession
 
-This project converts a class session video to a quick summary video.
+This project converts a video class session to a quick summary video.
 
 Steps to use:
 
