@@ -1,7 +1,6 @@
 # QuickSession
-Create a brief highlights of the session
 
-So this project converts a class session video to a quick summary video.
+This project converts a class session video to a quick summary video.
 
 Steps to use:
 
