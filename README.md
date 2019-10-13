@@ -3,7 +3,8 @@ Create a brief highlights of the session
 
 So this project converts a class session video to a quick summary video.
 
-Steps to reproduce
+Steps to use:
+
 1.Create a Google Speech to Text API key.
 
 2.Set the json path to the google credentials.
